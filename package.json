@@ -1,0 +1,9 @@
+{
+  "name": "peer-review",
+  "version": "0.0.0",
+  "description": "A tool to test libraries against their peer dependencies",
+  "main": "index.js",
+  "repository": "https://github.com/pzuraq/peer-review",
+  "author": "Chris Garrett",
+  "license": "MIT"
+}
